@@ -1,0 +1,30 @@
+{
+  "name": "node-js-weather",
+  "version": "1.0.0",
+  "description": "Simple weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandtshen/node-weather.git"
+  },
+  "keywords": [
+    "weather",
+    "simple"
+  ],
+  "author": "rolandtshen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandtshen/node-weather/issues"
+  },
+  "homepage": "https://github.com/rolandtshen/node-weather#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "yargs": "^12.0.1"
+  }
+}
