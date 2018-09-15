@@ -1,0 +1,15 @@
+{
+  "name": "flagpreviewer",
+  "version": "1.0.0",
+  "description": "flags",
+  "main": "index.js",
+  "dependencies": {
+    "hover.css": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rolandtshen",
+  "license": "ISC"
+}

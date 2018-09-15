@@ -1,0 +1,13 @@
+.input {
+  vertical-align: middle;
+}
+
+.row img {
+  border: 0 none;
+  display: inline;
+  align: center;
+  margin: 10px;
+  height: auto;
+  max-width: 31%;
+  vertical-align: middle;
+}
